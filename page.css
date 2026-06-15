@@ -1,0 +1,53 @@
+body {
+    background-color: rgba(68, 184, 184, 0.788);
+}
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    margin-left: 414px;
+    color: rgba(214, 175, 0, 0.555);
+    padding-top: 14px;
+    font-style: italic;
+    box-shadow: rgb(20, 1, 1) 100px;
+}
+
+.vibes {
+    margin-left: 100px;
+    padding: 4px;
+    color: rgba(46, 45, 45, 0.644);
+    font-style: oblique;
+}
+
+.ready {
+    margin-left: 100px;
+    font-style: oblique;
+    color: rgba(31, 25, 25, 0.979);
+}
+
+.gom {
+    font-size: 11.8px;
+    list-style: none;
+}
+
+.nott {
+    size-adjust: 20px;
+    list-style: none;
+
+}
+
+button {
+    margin-left: 130px;
+    font-style: oblique;
+    font-size: smaller;
+    background-color: rgba(87, 85, 11, 0.76);
+    border-radius: 14px;
+    list-style: none;
+}
+
+button:hover {
+    background-color: rgb(211, 197, 10);
+}

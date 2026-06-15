@@ -1,0 +1,100 @@
+* {
+    margin: ;
+    padding: ;
+}
+
+body {
+    min-height: 100vh;
+    background-color: rgb(135, 218, 233);
+}
+
+nav {
+    color: rgba(134, 102, 33, 0.719);
+    background-color: rgba(143, 212, 216, 0.664);
+    height: 80px;
+    margin-top: -16px;
+}
+
+nav ul {
+    text-align: ;
+    display: flex;
+    padding: 30px;
+}
+
+nav li {
+    text-decoration: none;
+    list-style: none;
+    height: 60px;
+    margin-left: auto;
+    padding: -10px;
+
+}
+
+nav a {
+    text-align: center;
+    position: fixed;
+    height: 150vh;
+    width: 25px;
+    align-items: column;
+}
+
+nav li:first-child {
+    margin-right: 1000px;
+    font-size: xx-large;
+}
+
+img {
+    margin: 200px;
+    margin-top: -0.2px;
+    box-shadow: #0f6f8a 40px;
+}
+
+h2 {
+    margin: -5px;
+    margin-top: -90px;
+    margin-left: 70px;
+}
+
+.pem {
+    font-style: italic;
+    margin: 20px;
+}
+
+button {
+    margin-left: 40px;
+    border-radius: 9px;
+    background-color: rgba(108, 182, 182, 0.911);
+    font-style: oblique;
+}
+
+button:hover {
+    background-color: rgba(8, 70, 49, 0.767);
+}
+
+.cam {
+    margin: 20px;
+    margin-left: 390px;
+}
+
+.click {
+    margin-left: 400px;
+    color: rgb(3, 39, 27);
+    background-color: rgba(127, 255, 212, 0.651);
+    font-style: oblique;
+}
+
+
+h3 {
+    margin-left: 1000px;
+}
+
+.gab {
+    margin-left: 960px;
+    font-style: oblique;
+}
+
+.done {
+    margin-left: 1000px;
+    font-style: inherit;
+
+}
